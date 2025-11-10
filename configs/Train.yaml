@@ -1,0 +1,61 @@
+# ================================================
+# Dataset & IO
+# ================================================
+data:
+  dataset: Breast
+  json_dir: /nas/unas15/username/TNNLS/json          # folder containing Breast.json
+  batch_size: 32
+  num_workers: 4
+
+model:
+  backbone_teacher: resnet101        # 1) ResNet101 → ResNet18
+  backbone_student: resnet18
+
+  # backbone_teacher: vit-b          # 2) ViT-B/16 → ResNet18
+  # backbone_student: resnet18
+
+  # backbone_teacher: wideresnet101  # 3) WideResNet101-2 → ResNet18
+  # backbone_student: resnet18
+
+  # backbone_teacher: resnet101      # 4) ResNet101 → ShuffleNetV2
+  # backbone_student: shufflenetv2
+
+  pretrained_backbone: true
+  teacher_ckpt: ""                   # 为空则自动匹配 Pretrain_<TAG>_<Dataset>.pth
+  T: 4.0
+
+train:
+  epochs: 100
+  base_lr: 0.0001
+  weight_decay: 1e-4
+  optimizer: sgd
+  momentum: 0.9
+  lr_scheduler: cosine
+  seeds: [75, 1159, 46, 1328, 6501]
+
+scope:
+  beta: 1.0        # CE weight
+  gamma: 1.0       # KD weight
+  alpha_mode: entropy
+  with_relations: true
+  enable_sra: true
+
+  sra:                        # ✅ 新增：SRA 设置为 full
+    variant: "full"
+    alpha_mode: "entropy"
+    fixed_alpha: 0.5
+  gcr:
+    variant: sum
+    log_cos: true
+    sample_epochs: "0.1,0.5,0.9"
+    sample_batches: 16
+
+
+# ================================================
+# Logging / Checkpoint
+# ================================================
+output:
+  save_dir: ./checkpoints/Brain
+  log_interval: 50
+  save_interval: 1
+  log_mode: b    # r: train+val | w: train+val+test | b: both lines

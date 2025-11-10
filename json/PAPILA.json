@@ -1,0 +1,5402 @@
+{
+  "_meta": {
+    "CLASS_NAMES": [
+      "0",
+      "1",
+      "2"
+    ],
+    "K_VOCAB": [
+      "OTHER_OPHTHALMIC"
+    ],
+    "A_VOCAB": [
+      "EYE_FUNDUS"
+    ],
+    "CLASS_TO_K_CODE": {
+      "0": "OTHER_OPHTHALMIC",
+      "1": "OTHER_OPHTHALMIC",
+      "2": "OTHER_OPHTHALMIC"
+    },
+    "CLASS_TO_A_CODE": {
+      "0": "EYE_FUNDUS",
+      "1": "EYE_FUNDUS",
+      "2": "EYE_FUNDUS"
+    },
+    "note": "Using full-filename indexing with extension; k/a kept coarse to avoid mirroring labels."
+  },
+  "pretrain": [
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET229OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET231OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET228OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET149OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET242OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET170OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET038OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET222OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET291OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET130OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET240OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET158OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET205OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET277OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET223OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET029OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET234OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET277OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET210OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET036OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET224OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET163OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET289OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET235OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET262OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET204OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET222OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET146OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET257OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET262OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET033OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET144OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET218OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET267OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET190OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET032OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET246OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET283OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET224OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET188OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET198OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET030OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET282OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET166OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET153OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET266OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET231OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET242OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET184OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET138OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET270OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET039OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET138OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET196OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET172OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET132OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET165OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET286OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET289OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET152OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET253OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET254OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET268OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET030OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET143OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET183OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET187OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET107OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET176OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET229OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET034OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET255OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET282OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET250OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET244OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET189OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET266OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET133OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET198OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET169OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET215OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET216OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET208OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET134OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET268OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET108OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET129OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET219OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET261OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET159OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET192OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET212OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET147OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET189OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET273OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET144OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET123OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET129OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET191OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET272OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET116OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET258OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET273OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET136OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET183OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET174OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET287OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET188OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET269OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET034OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET168OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET225OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET250OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET098OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET033OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET243OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET156OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET207OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET135OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET127OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET235OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET245OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET164OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET098OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET037OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET168OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET179OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET194OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET274OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET137OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET171OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET291OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET157OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET036OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET206OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET179OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET084OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET004OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET062OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET087OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET051OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET077OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET023OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET084OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET014OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET026OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET021OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET090OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET074OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET119OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET077OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET015OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET090OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET057OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET047OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET004OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET021OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET065OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET015OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET019OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET105OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET062OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET010OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET044OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET048OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET265OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET048OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET265OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET072OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET091OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET009OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET053OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET122OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET041OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET113OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET018OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET121OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET072OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET114OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET195OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET073OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET002OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET102OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET104OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET089OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET041OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET046OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET195OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET007OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET101OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET067OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET276OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET079OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET193OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET073OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  ],
+  "train": [
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET177OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET210OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET230OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET211OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET037OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET178OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET128OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET142OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET238OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET177OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET215OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET274OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET241OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET267OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET130OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET200OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET232OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET190OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET234OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET281OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET202OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET292OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET172OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET249OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET200OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET245OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET143OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET199OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET178OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET032OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET227OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET218OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET165OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET232OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET269OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET281OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET181OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET255OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET288OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET131OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET160OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET275OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET163OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET029OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET230OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET045OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET162OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET236OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET206OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET240OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET243OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET186OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET134OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET197OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET227OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET221OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET128OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET223OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET251OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET096OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET186OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET151OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET260OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET175OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET197OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET199OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET107OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET181OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET283OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET039OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET140OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET133OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET027OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET260OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET187OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET249OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET221OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET158OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET209OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET204OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET035OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET139OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET239OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET147OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET203OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET209OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET141OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET254OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET131OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET287OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET259OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET228OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET031OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET027OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET252OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET237OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET275OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET214OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET164OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET127OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET238OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET155OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET150OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET217OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET028OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET212OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET141OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET152OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET170OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET271OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET154OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET137OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET225OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET038OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET290OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET135OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET251OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET132OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET211OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET191OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET169OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET286OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET236OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET256OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET171OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET253OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET244OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET035OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET174OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET096OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET280OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET146OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET259OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET271OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET153OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET241OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET176OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET142OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET149OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET257OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET194OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET285OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET019OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET023OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET042OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET055OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET069OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET068OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET014OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET042OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET124OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET013OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET050OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET248OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET020OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET068OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET016OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET124OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET088OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET051OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET016OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET248OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET047OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET074OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET005OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET069OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET020OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET065OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET013OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET233OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET050OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET025OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET088OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET119OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET055OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET180OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET024OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET008OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET092OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET002OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET046OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET066OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET024OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET106OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET264OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET089OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET121OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET120OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET113OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET276OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET067OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET264OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET193OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET091OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET008OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET180OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET053OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET101OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET006OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET104OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET007OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET122OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET018OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  ],
+  "validation": [
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET258OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET213OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET136OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET285OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET150OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET154OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET125OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET203OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET219OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET160OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET028OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET156OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET192OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET140OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET139OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET207OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET205OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET159OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET208OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET182OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET064OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET081OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET233OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET081OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET006OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET093OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET112OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET114OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  ],
+  "test": [
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET045OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET202OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET217OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET290OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET288OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET252OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET280OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET184OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET162OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET157OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET031OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET123OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET292OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET108OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET293OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET166OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET155OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET175OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET196OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET126OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET261OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET284OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET220OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET126OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET239OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET201OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET256OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET270OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET246OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET272OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET213OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET201OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET284OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET151OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET237OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET293OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET125OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET116OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET182OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET220OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET214OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET216OD.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET005OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET026OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET057OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET010OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET064OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET105OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET056OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET056OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET087OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET044OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET025OD.jpg",
+      "label": 1,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET066OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET106OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET093OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET112OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET009OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET102OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET120OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET079OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/PAPILA/FundusImages/RET092OD.jpg",
+      "label": 2,
+      "h": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  ]
+}

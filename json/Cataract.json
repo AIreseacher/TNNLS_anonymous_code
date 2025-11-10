@@ -1,0 +1,10860 @@
+{
+  "_meta": {
+    "K_VOCAB": [
+      "C0027358",
+      "C0007972",
+      "C0017601",
+      "C0035333"
+    ],
+    "A_VOCAB": [
+      "UBERON:0000970",
+      "UBERON:0000969",
+      "UBERON:0001797",
+      "UBERON:0001768"
+    ],
+    "CLASS_NAMES": [
+      "normal",
+      "cataract",
+      "glaucoma",
+      "retina_disease"
+    ],
+    "CLASS_TO_K_CUI": {
+      "normal": "C0027358",
+      "cataract": "C0007972",
+      "glaucoma": "C0017601",
+      "retina_disease": "C0035333"
+    },
+    "CLASS_TO_A_UBERON": {
+      "normal": "UBERON:0000970",
+      "cataract": "UBERON:0000969",
+      "glaucoma": "UBERON:0001797",
+      "retina_disease": "UBERON:0001768"
+    }
+  },
+  "pretrain": [
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_204.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_267.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_153.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_010.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_234.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_227.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_197.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_110.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_006.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_176.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_238.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_058.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_219.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_046.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_183.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_222.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_290.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_212.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_149.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_166.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_079.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_114.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_250.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_251.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_105.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_043.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_282.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_296.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_158.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_239.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_018.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_165.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_034.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_025.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_216.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_120.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_008.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_091.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_047.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_074.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_094.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_077.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_287.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_061.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_078.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_064.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_235.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_230.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_112.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_232.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_181.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_145.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_240.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_076.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_298.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_279.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_098.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_093.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_193.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_026.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_233.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_060.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_007.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_186.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_174.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_031.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_023.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_257.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_057.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_187.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_109.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_127.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_231.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_194.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_130.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_283.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_083.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_085.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_067.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_289.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_164.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_155.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_020.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_125.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_080.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_115.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_119.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_073.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_016.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_011.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_195.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_102.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_069.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_225.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_038.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_017.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_180.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_148.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_275.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_068.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_229.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_070.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_032.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_184.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_266.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_226.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_141.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_019.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_182.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_097.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_133.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_263.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_087.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_249.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_246.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_117.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_147.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_293.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_198.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_207.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_084.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_054.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_071.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_046.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_045.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_040.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_023.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_081.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_011.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_001.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_019.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_031.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_074.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_034.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_091.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_005.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_077.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_078.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_013.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_032.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_056.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_089.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_027.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_043.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_070.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_016.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_041.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_097.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_010.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_073.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_012.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_048.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_086.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_029.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_094.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_006.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_067.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_066.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_036.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_017.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_085.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_056.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_067.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_068.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_046.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_040.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_023.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_045.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_011.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_001.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_019.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_031.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_098.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_034.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_078.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_005.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_094.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_079.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_013.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_032.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_077.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_090.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_027.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_043.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_071.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_016.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_041.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_073.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_010.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_097.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_012.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_092.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_065.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_029.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_084.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_006.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_048.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_054.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_036.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_017.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_084.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_054.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_071.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_046.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_045.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_040.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_023.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_081.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_011.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_001.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_019.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_031.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_074.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_034.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_091.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_005.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_077.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_078.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_013.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_032.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_056.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_089.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_027.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_043.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_070.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_016.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_041.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_097.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_010.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_073.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_012.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_048.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_086.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_029.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_094.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_006.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_067.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_066.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_036.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_017.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  ],
+  "train": [
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_056.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_173.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_185.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_168.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_140.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_254.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_039.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_126.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_196.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_284.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_138.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_113.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_169.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_118.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_278.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_272.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_156.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_177.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_179.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_003.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_116.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_144.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_178.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_121.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_211.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_261.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_128.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_075.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_030.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_084.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_270.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_108.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_224.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_159.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_281.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_247.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_223.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_066.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_199.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_086.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_214.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_160.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_013.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_036.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_029.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_143.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_285.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_255.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_171.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_052.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_096.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_209.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_248.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_042.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_090.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_245.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_137.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_027.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_294.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_142.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_201.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_001.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_269.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_273.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_101.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_260.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_256.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_172.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_099.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_037.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_062.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_151.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_237.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_203.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_243.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_012.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_297.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_268.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_028.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_220.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_005.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_123.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_033.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_205.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_163.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_210.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_286.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_139.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_063.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_136.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_129.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_291.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_009.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_071.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_265.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_065.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_045.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_280.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_157.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_041.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_124.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_276.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_217.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_154.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_024.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_262.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_111.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_082.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_208.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_213.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_040.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_241.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_292.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_259.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_200.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_015.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_048.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_095.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_264.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_228.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_274.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_202.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_162.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_044.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_218.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_050.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_035.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_008.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_096.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_028.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_020.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_082.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_026.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_063.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_014.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_025.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_004.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_018.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_039.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_009.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_079.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_007.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_065.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_037.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_090.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_057.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_100.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_055.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_044.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_051.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_068.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_047.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_069.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_062.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_098.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_080.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_042.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_059.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_049.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_099.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_058.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_076.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_033.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_095.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_060.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_064.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_085.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_082.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_035.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_008.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_044.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_074.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_028.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_020.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_095.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_026.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_063.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_050.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_014.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_025.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_004.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_018.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_039.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_009.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_080.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_007.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_066.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_037.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_089.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_057.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_101.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_055.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_051.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_069.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_047.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_070.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_062.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_099.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_081.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_042.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_059.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_049.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_091.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_058.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_076.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_033.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_096.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_060.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_064.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_050.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_035.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_008.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_096.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_028.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_020.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_082.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_026.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_063.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_014.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_025.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_004.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_018.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_039.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_009.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_079.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_007.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_065.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_037.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_090.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_057.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_100.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_055.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_044.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_051.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_068.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_047.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_069.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_062.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_098.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_080.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_042.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_059.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_049.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_099.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_058.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_076.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_033.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_095.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_060.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_064.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_085.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  ],
+  "validation": [
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_146.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_191.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_221.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_252.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_004.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_106.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_054.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_134.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_002.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_132.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_104.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_050.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_081.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_206.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_035.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_092.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_053.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_242.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_038.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_030.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_002.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_053.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_022.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_003.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_086.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_038.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_030.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_002.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_053.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_022.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_038.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_030.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_002.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_053.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_022.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_003.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  ],
+  "test": [
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_014.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_089.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_167.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_295.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_135.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_288.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_244.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_055.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_051.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_175.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_190.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_299.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_188.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_170.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_059.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_049.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_236.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_253.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_022.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_161.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_277.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_192.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_258.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_150.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_131.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_152.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_100.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_088.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_215.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_122.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_300.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_021.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_189.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_072.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_107.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_271.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/1_normal/NL_103.jpg",
+      "label": 0,
+      "h": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_024.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_088.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_092.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_075.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_087.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_083.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_021.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_061.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_072.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_015.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_093.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_cataract/cataract_052.jpg",
+      "label": 1,
+      "h": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_003.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_024.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_088.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_100.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_075.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_087.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_083.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_021.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_061.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_072.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_015.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_093.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/2_glaucoma/Glaucoma_052.jpg",
+      "label": 2,
+      "h": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_024.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_088.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_092.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_075.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_087.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_083.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_021.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_061.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_072.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_015.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_093.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "/nas/unas15/username/MM/dataset/Cataract/dataset_jpg/3_retina_disease/Retina_052.jpg",
+      "label": 3,
+      "h": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  ]
+}
